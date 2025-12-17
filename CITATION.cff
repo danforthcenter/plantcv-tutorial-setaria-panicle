@@ -1,0 +1,27 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Schuhl
+  given-names: Haley
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-8825-8297"
+- family-names: Jancha
+  given-names: Justin
+  affiliation: Donald Danforth Plant Science Center
+- family-names: Nowel
+  given-names: Nathanliel
+  affiliation: Donald Danforth Plant Science Center
+- family-names: Braud
+  given-names: Max
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-7664-289X"
+- family-names: Sandhu
+  given-names: Jaspreet
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0001-7863-2532"
+
+title: "Setaria Panicle Image Analysis Tutorial"
+version: 1.0.0
+doi: 
+date-released: 2025
+url: "https://github.com/danforthcenter/plantcv-tutorial-setaria-panicle"
